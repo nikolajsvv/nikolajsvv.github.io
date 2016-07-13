@@ -387,6 +387,13 @@ form .row:first-child .floating-label-form-group {
   text-shadow: none;
   background: #0085A1;
 }
+container {
+width: 500px;
+height: 300px;
+overflow: hidden;
+border: 3px double #000;
+white-space: nowrap;
+}
 img::selection {
   color: white;
   background: transparent;
