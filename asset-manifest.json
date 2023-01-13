@@ -1,30 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.2bcf93ed.css",
-    "main.js": "/static/js/main.f9f33bdf.js",
+    "main.css": "/static/css/main.12c6aaa4.css",
+    "main.js": "/static/js/main.1f26507c.js",
     "static/media/profile.png": "/static/media/profile.47a50d497c62911ac44b.png",
     "static/media/vaultLogo.png": "/static/media/vaultLogo.e95ab32fed7014a6e7c4.png",
     "static/media/dot-seamless-pattern.png": "/static/media/dot-seamless-pattern.83d912034e931691c3dd.png",
     "static/media/cafequeryLogo.png": "/static/media/cafequeryLogo.a98d59204a3bc1d03ccf.png",
-    "static/media/deno-logo.png": "/static/media/deno-logo.8a4cc9e234ceea12138a.png",
-    "static/media/react-logo.png": "/static/media/react-logo.d0af8ae6beb1ce91cbe2.png",
-    "static/media/java-logo.png": "/static/media/java-logo.7a185395fc83e7e62383.png",
     "static/media/d3nodataLogoDark.png": "/static/media/d3nodataLogoDark.22d4a4bc10522fbc2952.png",
-    "static/media/fresh-logo.png": "/static/media/fresh-logo.77c12167d02466b8b821.png",
-    "static/media/git-logo.png": "/static/media/git-logo.07c1afc0555ef8b24c9e.png",
-    "static/media/css-logo.png": "/static/media/css-logo.75d106992d89f1d20d63.png",
-    "static/media/tailwind-logo.png": "/static/media/tailwind-logo.42c2fa8c46a668468f5c.png",
-    "static/media/javascript-logo.png": "/static/media/javascript-logo.490620a14dd38e80aba1.png",
-    "static/media/html-logo.png": "/static/media/html-logo.c0e484c4ab929a7bbea1.png",
-    "static/media/node-logo.png": "/static/media/node-logo.8b114030b0a72734d37a.png",
-    "static/media/bloomberg-logo.png": "/static/media/bloomberg-logo.42edcaf77dd2ea6c95b4.png",
-    "static/media/database-logo.png": "/static/media/database-logo.14ab4a08f54273a19d0e.png",
+    "static/media/node-logo.png": "/static/media/node-logo.d6bc00e67ef19f8d7d80.png",
+    "static/media/react-logo.png": "/static/media/react-logo.cae217dcd97cc25c74c4.png",
+    "static/media/database-logo.png": "/static/media/database-logo.2f873decca1dca86c97e.png",
+    "static/media/java-logo.png": "/static/media/java-logo.52759fcf2e7316f477c8.png",
+    "static/media/html-logo.png": "/static/media/html-logo.248dcad15c0420e071de.png",
+    "static/media/javascript-logo.png": "/static/media/javascript-logo.e0f516d0318a8f31f08f.png",
     "index.html": "/index.html",
-    "main.2bcf93ed.css.map": "/static/css/main.2bcf93ed.css.map",
-    "main.f9f33bdf.js.map": "/static/js/main.f9f33bdf.js.map"
+    "main.12c6aaa4.css.map": "/static/css/main.12c6aaa4.css.map",
+    "main.1f26507c.js.map": "/static/js/main.1f26507c.js.map"
   },
   "entrypoints": [
-    "static/css/main.2bcf93ed.css",
-    "static/js/main.f9f33bdf.js"
+    "static/css/main.12c6aaa4.css",
+    "static/js/main.1f26507c.js"
   ]
 }
