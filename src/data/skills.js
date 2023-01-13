@@ -16,50 +16,42 @@ const skills = [
     id: `1`,
     src: reactLogo,
     title: "React",
-    visibile: false,
   },
   {
     id: `2`,
     src: javascriptLogo,
     title: "JavaScript (ES6+)",
-    visibile: false,
   },
   {
     id: `3`,
     src: htmlLogo,
     title: "HTML5 / CSS",
-    visibile: false,
   },
   {
     id: `4`,
     src: tailwindLogo,
     title: "TailwindCSS",
-    visibile: false,
   },
   {
     id: `5`,
     src: nodeLogo,
     title: "Node.js",
-    visibile: false,
   },
   {
     id: `6`,
     src: gitLogo,
     title: "Git (Version Control)",
-    visibile: false,
   },
   {
     id: `7`,
     src: databaseLogo,
     title: "SQL / NoSQL",
-    visibile: false,
   },
 
   {
     id: `8`,
     src: javaLogo,
     title: "Java",
-    visibile: false,
   },
 ];
 
