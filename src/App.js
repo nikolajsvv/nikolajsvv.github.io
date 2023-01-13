@@ -7,7 +7,7 @@ import Timeline from "./components/Timeline";
 
 function App() {
   return (
-    <div className='h-screen bg-dot-pattern bg-[length:75px_75px]'>
+    <div className='h-screen w-screen bg-dot-pattern bg-[length:75px_75px]'>
       <NavBar />
       <About />
       <Skills />

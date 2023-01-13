@@ -4,8 +4,8 @@ import TimelineItem from './TimelineItem'
 
 function Timeline() {
   return (
-    <div id='timeline' className='flex flex-col md:flex-row justify-center my-20 p-7'>
-      <div className='w-full md:w-7/12'>
+    <div id='timeline' className='flex flex-col bg-dot-pattern bg-[length:75px_75px] md:flex-row justify-center'>
+      <div className='w-full md:w-7/12 p-5 mx-auto'>
         {timeline.map(item => (
           <TimelineItem
             year={item.year}

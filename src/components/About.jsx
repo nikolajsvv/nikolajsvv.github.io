@@ -5,7 +5,7 @@ import Typewriter from 'typewriter-effect';
 
 function About() {
   return (
-    <div id='about' className="h-screen w-full">
+    <div id='about' className="h-screen w-full bg-dot-pattern bg-[length:75px_75px]">
       <div className="max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-5 md:flex-row">
         <div className="flex flex-col justify-center items-center h-full pt-10 md:items-start">
           <div className='text-2xl'>
@@ -32,7 +32,7 @@ function About() {
             <a href='/Nikolajs Veidis - Resume.pdf' target='_blank' rel="noreferrer">
             <button className='group w-fit px-6 py-3 my-2 flex items-center rounded-md shadow-md shadow-gray-500/50 cursor-pointer hover:shadow-gray-500/100'>
               Resume
-              <span className='group-hover:animate-bounce duration-300'>
+              <span className='group-hover:animate-wiggle duration-300'>
                 <TbDownload size={20} className='ml-1'/>
               </span>
             </button>

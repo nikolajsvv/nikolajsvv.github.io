@@ -33,7 +33,7 @@ const skills = [
   {
     id: `4`,
     src: tailwindLogo,
-    title: "Tailwind",
+    title: "TailwindCSS",
     visibile: false,
   },
   {

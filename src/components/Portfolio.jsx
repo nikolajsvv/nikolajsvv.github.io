@@ -4,7 +4,7 @@ import PortfolioItem from './PortfolioItem'
 
 function Portfolio() {
   return (
-    <div id='portfolio' className='w-full md:h-screen pt-10'>
+    <div id='portfolio' className='w-full bg-dot-pattern bg-[length:75px_75px] md:h-screen pt-10'>
       <div className='max-w-screen-lg mx-auto p-4'>
         <h2 className='text-4xl p-2 text-center justify-start sm:text-5xl sm:text-left'>Portfolio</h2>
         <div className='flex flex-col md:flex-row items-center justify-center'>
