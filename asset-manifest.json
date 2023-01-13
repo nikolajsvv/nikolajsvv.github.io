@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.12c6aaa4.css",
-    "main.js": "/static/js/main.1f26507c.js",
+    "main.css": "/static/css/main.0666c7f1.css",
+    "main.js": "/static/js/main.5fbdc59b.js",
     "static/media/profile.png": "/static/media/profile.47a50d497c62911ac44b.png",
     "static/media/vaultLogo.png": "/static/media/vaultLogo.e95ab32fed7014a6e7c4.png",
     "static/media/dot-seamless-pattern.png": "/static/media/dot-seamless-pattern.83d912034e931691c3dd.png",
-    "static/media/cafequeryLogo.png": "/static/media/cafequeryLogo.a98d59204a3bc1d03ccf.png",
     "static/media/d3nodataLogoDark.png": "/static/media/d3nodataLogoDark.22d4a4bc10522fbc2952.png",
     "static/media/node-logo.png": "/static/media/node-logo.d6bc00e67ef19f8d7d80.png",
     "static/media/react-logo.png": "/static/media/react-logo.cae217dcd97cc25c74c4.png",
     "static/media/database-logo.png": "/static/media/database-logo.2f873decca1dca86c97e.png",
+    "static/media/cafequeryLogo.png": "/static/media/cafequeryLogo.a6806e25a929266c37a7.png",
     "static/media/java-logo.png": "/static/media/java-logo.52759fcf2e7316f477c8.png",
     "static/media/html-logo.png": "/static/media/html-logo.248dcad15c0420e071de.png",
     "static/media/javascript-logo.png": "/static/media/javascript-logo.e0f516d0318a8f31f08f.png",
     "index.html": "/index.html",
-    "main.12c6aaa4.css.map": "/static/css/main.12c6aaa4.css.map",
-    "main.1f26507c.js.map": "/static/js/main.1f26507c.js.map"
+    "main.0666c7f1.css.map": "/static/css/main.0666c7f1.css.map",
+    "main.5fbdc59b.js.map": "/static/js/main.5fbdc59b.js.map"
   },
   "entrypoints": [
-    "static/css/main.12c6aaa4.css",
-    "static/js/main.1f26507c.js"
+    "static/css/main.0666c7f1.css",
+    "static/js/main.5fbdc59b.js"
   ]
 }
