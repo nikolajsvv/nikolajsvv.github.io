@@ -10,8 +10,8 @@ function App() {
     <div className='h-screen bg-dot-pattern bg-[length:75px_75px]'>
       <NavBar />
       <About />
-      <Portfolio />
       <Skills />
+      <Portfolio />
       <Timeline />
       <Footer />
     </div>

@@ -29,7 +29,6 @@ function SocialLinks() {
   ];
   
   return (
-    // flex flex-col top-[35%] left-0 fixed
     <div className='flex justify-center items-center fixed p-4 rounded-2xl bottom-0 lg:left-0'>
       <ul className='flex gap-4 md:flex-col'>
         {links.map(({id, child, href}) => (
