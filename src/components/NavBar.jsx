@@ -53,7 +53,7 @@ const NavBar = () => {
   ];
 
   return (
-    <div className="flex justify-between items-center w-full h-20 px-4 fixed">
+    <div className="flex justify-between items-center w-full h-20 px-4 fixed z-10">
       <div className='flex'>
         <ul className='flex gap-4 sm:flex-col sm:pt-20'>
           {links.map(({id, child, href}) => (
@@ -83,8 +83,6 @@ const NavBar = () => {
             (<li key={id} className='px-4 cursor-pointer capitalize py-6 text-4xl'><Link activeClass='active-mobile' smooth duration={750} spy to={link}>{link}</Link></li>
         ))}
       </ul>)}
-
-  
     </div>
   )  
 }
