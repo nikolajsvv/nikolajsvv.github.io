@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.0666c7f1.css",
-    "main.js": "/static/js/main.def5e346.js",
+    "main.css": "/static/css/main.80c788ef.css",
+    "main.js": "/static/js/main.00aa5995.js",
     "static/media/profile.png": "/static/media/profile.47a50d497c62911ac44b.png",
     "static/media/vaultLogo.png": "/static/media/vaultLogo.e95ab32fed7014a6e7c4.png",
     "static/media/dot-seamless-pattern.png": "/static/media/dot-seamless-pattern.83d912034e931691c3dd.png",
@@ -10,16 +10,16 @@
     "static/media/react-logo.png": "/static/media/react-logo.cae217dcd97cc25c74c4.png",
     "static/media/database-logo.png": "/static/media/database-logo.2f873decca1dca86c97e.png",
     "static/media/cafequeryLogo.png": "/static/media/cafequeryLogo.a6806e25a929266c37a7.png",
-    "static/media/java-logo.png": "/static/media/java-logo.52759fcf2e7316f477c8.png",
     "static/media/twitchChatSpotifyBotLogo.png": "/static/media/twitchChatSpotifyBotLogo.5beb0d4926ff5cc9add5.png",
     "static/media/html-logo.png": "/static/media/html-logo.248dcad15c0420e071de.png",
+    "static/media/python-logo.png": "/static/media/python-logo.26343f3611c89db063b4.png",
     "static/media/javascript-logo.png": "/static/media/javascript-logo.e0f516d0318a8f31f08f.png",
     "index.html": "/index.html",
-    "main.0666c7f1.css.map": "/static/css/main.0666c7f1.css.map",
-    "main.def5e346.js.map": "/static/js/main.def5e346.js.map"
+    "main.80c788ef.css.map": "/static/css/main.80c788ef.css.map",
+    "main.00aa5995.js.map": "/static/js/main.00aa5995.js.map"
   },
   "entrypoints": [
-    "static/css/main.0666c7f1.css",
-    "static/js/main.def5e346.js"
+    "static/css/main.80c788ef.css",
+    "static/js/main.00aa5995.js"
   ]
 }
