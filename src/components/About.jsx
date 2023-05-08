@@ -26,7 +26,7 @@ function About() {
               }}
             />
           </div>
-          <p className='text-center text-gray-500 py-4 max-w-md md:text-start'>I am a New York City based full-stack software engineer with expertise in data visualization and UI/UX design. I have experience in developing interactive graphs using D3.js, implementing version control, and using technologies like JavaScript, Node.js, and React. I also have a background in finance, specifically in fixed-income.
+          <p className='text-center text-gray-500 py-4 max-w-md md:text-start'>I am a New York City based full-stack software engineer with expertise in data visualization and UI/UX design. After working in finance, specifically in fixed-income, I decided to transition into software engineering and graduated from a software engineering bootcamp. I have experience in developing interactive graphs using D3.js, implementing version control, and using technologies like JavaScript, Node.js, and React. My background in finance allows me to bring unique insights to my work in software development.
           </p>
           <div className='flex justify-center items-center md:justify-start'>
             <a href='/Nikolajs Veidis - Resume.pdf' target='_blank' rel="noreferrer">

@@ -2,7 +2,7 @@ import nodeLogo from "../assets/img/node-logo.png";
 import javascriptLogo from "../assets/img/javascript-logo.png";
 import htmlLogo from "../assets/img/html-logo.png";
 import tailwindLogo from "../assets/img/tailwind-logo.png";
-import javaLogo from "../assets/img/java-logo.png";
+import pythonLogo from "../assets/img/python-logo.png";
 import reactLogo from "../assets/img/react-logo.png";
 import gitLogo from "../assets/img/git-logo.png";
 import databaseLogo from "../assets/img/database-logo.png";
@@ -50,8 +50,8 @@ const skills = [
 
   {
     id: `8`,
-    src: javaLogo,
-    title: "Java",
+    src: pythonLogo,
+    title: "Python",
   },
 ];
 

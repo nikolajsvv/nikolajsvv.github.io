@@ -3,7 +3,7 @@ import React from 'react'
 function PortfolioItem({imgUrl, title, stack, workUrl }) {
   return (
     <div className='shadow-lg shadow-[#292823] rounded-md overflow-hidden hover:scale-105 duration-300'>
-      <a href={workUrl} target='_blank' rel="noreferrer">
+      <a href={workUrl} target='_blank' rel="noopener noreferrer">
         <img 
           src={imgUrl} 
             alt='portfolio'
@@ -20,7 +20,6 @@ function PortfolioItem({imgUrl, title, stack, workUrl }) {
             ))}
           </p>
         </div>  
-      
     </div>
 
   )

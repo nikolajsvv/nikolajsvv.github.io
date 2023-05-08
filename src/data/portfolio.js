@@ -15,19 +15,26 @@ const portfolio = [
     title: "Vault",
     imgUrl: vaultLogo,
     stack: ["React", "Node.js", "JavaScript", "Express"],
-    workUrl: "https://github.com",
+    workUrl: "https://github.com/stabbin-rabbits/vault",
   },
   {
-    title: "Twitch Chat Spotify Bot",
+    title: "Twitch Spotify Integration",
     imgUrl: twitchChatSpotifyBot,
-    stack: ["Express", "Node.js", "Passport", "Spotfiy API", "Twitch API"],
-    workUrl: "https://github.com/nikolajsvv/twitch-chat-spotify-bot",
+    stack: [
+      "JavaScript",
+      "Express",
+      "Node.js",
+      "Passport",
+      "Spotfiy API",
+      "Twitch API",
+    ],
+    workUrl: "https://github.com/nikolajsvv/TwitchSpotifyIntegration",
   },
   {
     title: "Cafe Query",
     imgUrl: cafeQueryLogo,
     stack: ["Express", "Node.js", "MongoDB", "JavaScript"],
-    workUrl: "https://github.com",
+    workUrl: "https://github.com/PinkFairyArmadillos34/CafeQuery",
   },
 ];
 

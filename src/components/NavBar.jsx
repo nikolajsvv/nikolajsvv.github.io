@@ -4,7 +4,6 @@ import { FaLinkedin, FaGithub } from 'react-icons/fa'
 import { MdEmail } from 'react-icons/md'
 import { Link } from 'react-scroll' 
 
-
 const NavBar = () => {
 
   const [nav, setNav] = useState(false)
@@ -60,7 +59,7 @@ const NavBar = () => {
             <li key={id} className='flex hover:scale-105'>
               <a href={href}  
               target='_blank' 
-              rel="noreferrer">
+              rel="noopener noreferrer">
               {child}
               </a>
             </li>
